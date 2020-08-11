@@ -12,4 +12,8 @@
 
 4. Underlies major programing paradigms, Functional Programing, modules, bit of class-oriented design.
 
-5. 
+5. "[closure] make it possible for a function to have  "private" variables." -W3Schools
+
+6. notes on code, codeExample_1.js
+
+7. 
